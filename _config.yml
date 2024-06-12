@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "A Commitment to Philadelphia's African-Americans Arts Contributions"
+title: "A Celebration of Philadelphia's African Americans Arts Contributions"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Let's take a stroll through Philly's artistic history"
+tagline: "Let's stroll through Philly's African American Artistic Landmarks"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Landmarks for African-Americans contributions to Philly's Artistic Community"
+#description: ""
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
