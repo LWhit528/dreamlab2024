@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Lindsay Test Site in Collection Builder"
+title: "A Commitment to Philadelphia's African-Americans Arts Contributions"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "a personal sandbox for understanding visualizations"
+tagline: "Let's take a stroll through Philly's artistic history"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Landmarks for African-Americans contributions to Philly's Artistic Community"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
