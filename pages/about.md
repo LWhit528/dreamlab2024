@@ -19,6 +19,10 @@ These artists and their work reflect a wide range of creative practices, ideas, 
 African American art is also deeply intertwined with the history of race in the United States—from colonial enslavement, to the civil rights movement, to today. These works are far more than a group of personal statements about identity or recorded moments in history. They have power, beauty, and meaning that extend beyond categorization to achieve timeless, universal appeal.
 		(copied from the Philadelphia Museum of Art page)
 
+
+## About this site
+This repository features historic sites from the Preservation Alliance of Greater Philadelphia's [Inventory of African American Historic Sites.] (https://preservationalliance.com/explore-historic-philadelphia/historic-inventory/)
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 
